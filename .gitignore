@@ -1,0 +1,7 @@
+output/
+keil*/DebugConfig
+*.uvguix.*
+*.uvgui.*
+*.uvoptx
+*.scvd
+keil*/Jlink*
